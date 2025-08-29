@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+target/
+out/
+
+# C/C++
+*.o
+*.out
+*.exe
+
+# Logs & OS files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env.local
